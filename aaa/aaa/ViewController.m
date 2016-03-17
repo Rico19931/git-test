@@ -34,6 +34,13 @@
 
 
 - (void)do_get{
+    sjdklasjdklasjdklasjdaskldj;kljkdl;askdl;askdl;askdlsfasf
+    asfasf
+    asfa
+    sf
+    asf
+    asf
+    asf
     
     
     
